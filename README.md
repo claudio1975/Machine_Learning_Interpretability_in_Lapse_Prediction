@@ -11,4 +11,4 @@ and modern machine learning, also facing issues linked with imbalanced classes.
 The growing of open source programming communities combined with the advances in computing power have given the opportunity to develop 
 and use models with more predictive power than traditional ones. Anyway, ensemble algorithms and neural networks are complex models 
 referred as "black-boxes" than linear regression, decision trees and logistic regression referred as interpretable models.
-For this reason, after the prediction is a good manner the use of a toolbox to explain results from machine learning.
+For this reason, it's becoming more common to combine the predictive power with a toolbox to understand results from machine learning.

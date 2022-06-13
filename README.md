@@ -12,3 +12,5 @@ The growing of open source programming communities combined with the advances in
 and use models with more predictive power than traditional ones. Anyway, ensemble algorithms and neural networks are complex models 
 referred as "black-boxes" than linear regression, decision trees and logistic regression referred as interpretable models.
 For this reason, it's becoming more common to combine the predictive power with a toolbox to understand results from machine learning.
+
+![](./images/Lapsed-life-insurace.png)

@@ -6,3 +6,7 @@ matplotlib
 jupyter
 seaborn
 scikit-learn
+tensorflow
+shap
+eli5
+lime

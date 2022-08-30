@@ -1,5 +1,7 @@
 # Machine Learning Interpretability in Lapse Prediction for Non-Life Insurance Premium
 
+Fill in the fields to see the markdown badge snippet.
+
 An issue for every Company is the high number of churning customers. 
 Company's customers lapse or quit insurance policies every day. Some of them for unpredictable reasons but others 
 for the competitive environment. So, many customers leave insurance policies for reasons that a Company can prevent 

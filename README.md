@@ -1,6 +1,6 @@
 # Machine Learning Interpretability in Lapse Prediction for Non-Life Insurance Premium
 
-https://mybinder.org/v2/gh/claudio1975/Machine_Learning_Interpretability_in_Lapse_Prediction/HEAD
+![](https://mybinder.org/v2/gh/claudio1975/Machine_Learning_Interpretability_in_Lapse_Prediction/HEAD)
 
 An issue for every Company is the high number of churning customers. 
 Company's customers lapse or quit insurance policies every day. Some of them for unpredictable reasons but others 
